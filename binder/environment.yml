@@ -11,6 +11,7 @@ dependencies:
   - keras
   - pydot
   - nodejs
+  - pandas-datareader
   - pydotplus
   - python-graphviz
   - seaborn
