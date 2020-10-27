@@ -1,0 +1,20 @@
+name: deeplearning.ai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7.3
+  - anaconda
+  - tensorflow
+  - imageio
+  - opencv
+  - keras
+  - pydot
+  - nodejs
+  - pydotplus
+  - python-graphviz
+  - seaborn
+  - geopy
+  - folium=0.5.0
+  - pmdarima
+prefix: C:\Users\tlfmc\Anaconda3\envs\deeplearning.ai
